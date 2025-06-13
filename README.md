@@ -12,7 +12,14 @@ A RESTful API built with **ASP.NET Core** for managing fruits data.
 - 🐞 Expect bugs, incomplete functionality, and breaking changes  
 - 🔄 Updates and improvements coming soon
 
-*This README will be updated as the project progresses.*
+❗ *This README will be updated as the project progresses.*
+
+---
+
+## ✨ Features (Implemented So Far)
+
+- 🔐 Authentication endPoints
+- 🏠 Home endPoints
 
 ---
 
@@ -26,6 +33,29 @@ A RESTful API built with **ASP.NET Core** for managing fruits data.
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="45"/>
         <img src="https://github.com/user-attachments/assets/77a7ebaf-391a-4c1f-b705-12323cbaaa98" alt="Visual Studio" width="50" height="45"/>
 </p
+
+---
+## 📦 Packages Used (Implemented So Far)
+
+- 🔵 `Google.Apis.Auth`
+- 📄 `Swashbuckle.AspNetCore`
+- 🏗️ `Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation`
+- 🗃️ `Microsoft.EntityFrameworkCore`
+- 🗃️🔌 `Microsoft.EntityFrameworkCore.SqlServer`
+- 🛠️ `Microsoft.EntityFrameworkCore.Tools`
+- 🔐 `Microsoft.AspNetCore.Identity.EntityFrameworkCore`
+- 📝 `Microsoft.Extensions.Logging`
+- 📜 `Serilog.Extensions.Logging`
+- ⚙️ `Microsoft.Extensions.Configuration.Binder`
+- 🔑 `Microsoft.AspNetCore.Authentication.JwtBearer`
+- 🎨 `Microsoft.VisualStudio.Web.CodeGeneration.Design`
+- 👥 `Microsoft.AspNetCore.Identity.UI`
+- 🩺 `Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore`
+- 👻 `Microsoft.EntityFrameworkCore.Proxies`
+- 🧠 `Microsoft.Extensions.Caching.StackExchangeRedis`
+- 🗄️ `Microsoft.Extensions.Caching.SqlServer`
+- 🔵 `Microsoft.AspNetCore.Authentication.Google`
+- 📘 `Microsoft.AspNetCore.Authentication.Facebook`
 
 ---
 

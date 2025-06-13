@@ -35,6 +35,7 @@ A RESTful API built with **ASP.NET Core** for managing fruits data.
 </p
 
 ---
+
 ## 📦 Packages Used (Implemented So Far)
 
 - 🔵 `Google.Apis.Auth`

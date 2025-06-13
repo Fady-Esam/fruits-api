@@ -1,0 +1,6 @@
+@FruitsAppBackEnd_HostAddress = http://localhost:5156
+
+GET {{FruitsAppBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

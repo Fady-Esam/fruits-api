@@ -1,4 +1,4 @@
-# Fruits App API
+# 🍎🍌🍉 Fruits App API
 
 A RESTful API built with **ASP.NET Core** for managing fruits data.  
 *Currently under active development and debugging.*

@@ -32,7 +32,7 @@ A RESTful API built with **ASP.NET Core** for managing fruits data.
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="45"/>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="45"/>
         <img src="https://github.com/user-attachments/assets/77a7ebaf-391a-4c1f-b705-12323cbaaa98" alt="Visual Studio" width="50" height="45"/>
-</p
+</p>
 
 ---
 

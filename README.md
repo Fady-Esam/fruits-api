@@ -1,6 +1,6 @@
 # 🍎🍌🍉 Fruits API – ASP.NET Core Backend
 
-A RESTful API built with **ASP.NET Core** for managing fruits app data.  
+A **RESTful API** built with **ASP.NET Core** for managing fruits app data.  
 *Currently under active development and debugging.*
 
 ---

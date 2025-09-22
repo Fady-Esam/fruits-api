@@ -26,8 +26,7 @@ A **RESTful API** built with **ASP.NET Core** for managing fruits app data.
 ## 🛠️ Languages & Tools
 <p align="left"> 
         <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Languages & Frameworks" />
-        <img src="https://github.com/user-attachments/assets/fa32ecd8-f181-4041-8783-c52c2a1a2394" alt="ASP .NET Core" width="48" height="48"/>
-        <img src="https://github.com/user-attachments/assets/cca47f88-a1fa-4aeb-b70b-b309e3b19f16" alt="EF Core" width="48" height="48"/>
+        <img src="https://github.com/user-attachments/assets/46f82084-239b-45ba-8277-5a927690a686" alt="ASP .NET Core"  width="48" height="48"/>
         <img src="https://github.com/user-attachments/assets/bed1f933-9788-4ac4-b233-a9986092db48" alt="Swagger" width="48" height="48"/>
         <img src="https://skillicons.dev/icons?i=postman" />
         <img src="https://github.com/user-attachments/assets/7c52a0af-9e04-4cb9-8a08-e492f9ea1ff1" alt="SQL Database" width="50" height="45"/>
